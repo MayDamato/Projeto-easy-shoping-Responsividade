@@ -1,7 +1,7 @@
 <h1>Easy Shoping</h1>
 <br>
 
-<h2>Esse foi um projeto que aprendi no <a href="http;//rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Esse foi um projeto que aprendi no <a href="https://plataforma.devclub.com.br/">DevClub</a></h2>
 <p>Nesse projeto aprendi a deixar a pagina responsiva, para que assim ela possa ser vista do modo correto sem quebrar linha e imagens tanto em computador quanto em tablets e celulares.</p>
 <br>
 <h2>Tecnologias utilizadas:</h2>
