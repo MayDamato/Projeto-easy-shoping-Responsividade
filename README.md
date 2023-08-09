@@ -12,9 +12,11 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/MayDamato/Projeto-easy-shoping-Responsividade/blob/main/img/Cartaz%20retrato%20pague%20com%20pix%20ilustrado%20moderno%20azul%20e%20branco.png?raw=true" alt="pagina-no-celular" width="400">
 
-<img src="https://github.com/MayDamato/Projeto-easy-shoping-Responsividade/blob/main/img/Post%20para%20Instagram%20Divulga%C3%A7%C3%A3o%20Software%20-%20Moderno%20verde%20e%20branco%20.png?raw=true" alt="img-pagina-no-computador" width="600">
-
+<div align="center">
+   <img src="https://github.com/MayDamato/Projeto-easy-shoping-Responsividade/blob/main/img/Cartaz%20retrato%20pague%20com%20pix%20ilustrado%20moderno%20azul%20e%20branco.png? raw=true" alt="pagina-no-celular" width="400" height="600">
+   
+   <img src="https://github.com/MayDamato/Projeto-easy-shoping-Responsividade/blob/main/img/Post%20para%20Instagram%20Divulga%C3%A7%C3%A3o%20Software%20-%20Moderno%20verde%20e%20branco%20.png?raw=true" alt="img-pagina-no-computador" width="600">
+</div> 
 
 
